@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 - 🔭 I’m currently working on **Frontend & MERN Stack Projects**
-- 🌱 Currently learning **Next.js, TypeScript, AI Integration & System Design**
+- 🌱 Currently learning **Next.js, TypeScript, AI Integration**
 - 💬 Ask me about **React.js, JavaScript, Tailwind CSS, Node.js, Express.js & MongoDB**
 - 👨‍💻 Portfolio: **https://about-my-portfolio-two.vercel.app/**
 - 📫 Email: **kashyapgayatri151@gmail.com**
@@ -54,15 +54,6 @@
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gayatrieva&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 📈 GitHub Activity Graph
 
@@ -70,15 +61,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatrieva&theme=tokyo-night"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gayatrieva&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
-</p>
-
----
 
 ## 👀 Profile Views
 
